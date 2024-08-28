@@ -1,0 +1,16 @@
+{
+  "email": "tkoshelyuk@mailinator.com",
+  "password": "Pass123",
+  "repeatPassword": "Pass123",
+  "question": "Your favorite movie?",
+  "answer": "Matrix",
+  "country": "Turkey",
+  "firstname": "Dwight",
+  "telephone": "2345678987",
+  "zipcode": "012347",
+  "address": "Address111",
+  "city": "Antalya",
+  "state": "Louie",
+  "comment": "good comment, very very very good"
+
+}
